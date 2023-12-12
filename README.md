@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- I am a recent le Wagon graduate
+- Coding in ruby on rails, ruby, SQL, JS, CSS, SCSS etc.
+- Currently looking for a job opportunity
+- Don't hsitate to contact me! 
 <!--
 **Johnsteisel/Johnsteisel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
